@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Jest , nextjs**
 
-- 👨‍💻 All of my projects are available at [https://abdelkaderbouzomita.me/](https://abdelkaderbouzomita.me/)
-
+- 👨‍💻 All of my projects are available at [[https://abdelkaderbouzomita.me/](https://abdelkaderbouzomita.me/)
+- 
 - 💬 Ask me about **Reactjs , TypeScript ,Nodejs**
 
 - 📫 How to reach me **abdelkader.bouzomita@gmail.com**
