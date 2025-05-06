@@ -37,8 +37,8 @@
 
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 <p align="center">
-  <a href="https://github.com/AbdelkaderBouzomita">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelkaderBouzomita&theme=react-dark&hide_border=true&area=true">
+  <a href="https://github.com/abdelkaderbzz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelkaderbzz&theme=react-dark&hide_border=true&area=true">
   </a>
 </p>
 
@@ -67,5 +67,5 @@
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelkaderBouzomita&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelkaderbzz&theme=github_dark" />
 </p>
