@@ -6,12 +6,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/Abdelkaderbzz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelkaderbzz&theme=github-dark&hide_border=true&area=true&custom_title=Contribution+Activity&cache_seconds=86400">
-  </a>
-</div>
-
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,mongodb,mysql,py,tailwind,redux,figma,git,jest,sass,html,css" />
