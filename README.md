@@ -4,25 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bouzomita-abdelkader-928953234/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:abdelkader.bouzomita@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://abdelkader-bouzomita.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Abdelkaderbzz&label=Profile+Views&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkaderbzz&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" />
-</div>
-
-
-
 <br>
 
 <div align="center">
